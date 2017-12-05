@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TextoveRozhrani
+comment0.text=\r\n\ Class\ TextoveRozhrani\r\n\r\n\ Toto\ je\ t\u0159\u00EDda\ u\u017Eivatelsk\u00E9ho\ rozhran\u00ED\ aplikace\ Adventura.\ T\u0159\u00EDda\ vytv\u00E1\u0159\u00ED\ instanci\ t\u0159\u00EDdy\ Hra,\r\n\ kter\u00E1\ p\u0159edstavuje\ logiku\ aplikace.\ \u010Cte\ vstup\ zadan\u00FD\ u\u017Eivatelem\ a\ p\u0159ed\u00E1v\u00E1\ tento\ \u0159et\u011Bzec\ logice\r\n\ a\ vypisuje\ odpov\u011B\u010F\ logiky\ na\ konzoli.\r\n\r\n\ @author\ \ \ \ \ Michael\ Kolling,\ Lubo\u0161\ Pavl\u00ED\u010Dek,\ Jarmila\ Pavl\u00ED\u010Dkov\u00E1,\ Jan\ \u0158\u00EDha\r\n\ @version\ \ \ \ LS\ 2016/2017\r\n
+comment1.params=hra
+comment1.target=TextoveRozhrani(logika.IHra)
+comment1.text=\r\n\ Vytv\u00E1\u0159\u00ED\ hru.\r\n
+comment2.params=
+comment2.target=void\ hraj()
+comment2.text=\r\n\ Hlavn\u00ED\ metoda\ hry.\ Vyp\u00ED\u0161e\ \u00FAvodn\u00ED\ text\ a\ pak\ opakuje\ \u010Dten\u00ED\ a\ zpracov\u00E1n\u00ED\r\n\ p\u0159\u00EDkazu\ od\ hr\u00E1\u010De\ do\ konce\ hry\ (dokud\ metoda\ konecHry()\ z\ logiky\ nevr\u00E1t\u00ED\r\n\ hodnotu\ true).\ Nakonec\ vyp\u00ED\u0161e\ text\ epilogu.\r\n
+comment3.params=nazevSouboru
+comment3.target=void\ hrajZeSouboru(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ prectiString()
+comment4.text=\r\n\ Metoda\ p\u0159e\u010Dte\ p\u0159\u00EDkaz\ z\ p\u0159\u00EDkazov\u00E9ho\ \u0159\u00E1dku\r\n\r\n\ @return\ \ \ \ vrac\u00ED\ p\u0159e\u010Dten\u00FD\ p\u0159\u00EDkaz\ jako\ instanci\ t\u0159\u00EDdy\ String\r\n
+numComments=5
